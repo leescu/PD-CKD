@@ -1,6 +1,6 @@
 # Associations of Periodontitis with Risk of All-cause and Cause-specific Mortality Among US Adults with Chronic Kidney Disease 
 
-Code and original data for "Associations of Periodontitis with Risk of All-cause and Cause-specific Mortality Among US Adults with Chronic Kidney Disease"
+Code and original data for "Associations of Periodontitis with Risk of All-cause and Cause-specific Mortality Among US Adults with Chronic Kidney Disease".
 
 
 ## Table of Contents
@@ -53,20 +53,20 @@ tidyr
 ```
 
 ### Notes
-The dependency package 'nhanesR' needs to be installed (https://github.com/shaoyoucheng/nhanesR) and is paid software. We provide the results after the analysis of the software
+The dependency package 'nhanesR' needs to be installed (https://github.com/shaoyoucheng/nhanesR) and is paid software. We provide the results after the analysis of the software.
 ## Usage
 
 ### 1. PD, CKD and mortality diagnose [[Code]](https://github.com/leescu/PD-CKD/blob/main/PD%26CKD%26MO.R)
 Diagnosis of periodontitis, CKD and Mortality.
 Notes: The data for the "\data\NHANESIII" path needs to be downloaded from the NHANESIII database.(https://wwwn.cdc.gov/nchs/nhanes/nhanes3/datafiles.aspx#core)
-including 
+including.
 [[adult.dat]](https://wwwn.cdc.gov/nchs/data/nhanes3/1a/adult.dat), [[exam.dat]](https://wwwn.cdc.gov/nchs/data/nhanes3/1a/exam.dat), [[examdr.dat]](https://wwwn.cdc.gov/nchs/data/nhanes3/2a/examdr.dat), [[hei.dat]](https://wwwn.cdc.gov/nchs/data/nhanes3/6a/hei.dat), and [[lab.dat]](https://wwwn.cdc.gov/nchs/data/nhanes3/1a/lab.dat).
 
 ### 2. Covariates diagnose [[Code]](https://github.com/leescu/PD-CKD/blob/main/Covariates.R)
 Covariates: age, sex, race or ethnicity, smoking status, alcohol consumption status, socioeconomic status (SES), physical activity status (PA), healthy eating index (HEI), and body mass index (BMI).
 
 ### 3. Analysis [[Code]](https://github.com/leescu/PD-CKD/blob/main/Analysis.R)
-Statistical analysis and drawing of figures and tables
+Statistical analysis and drawing of figures and tables.
 
 
 

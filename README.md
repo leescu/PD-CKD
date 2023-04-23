@@ -72,10 +72,11 @@ Statistical analysis and drawing of figures and tables.
 
 ## Contributing
 
-See [the contributing file](CONTRIBUTING.md)!
+See [the contributing file](CONTRIBUTING.md).
+
 All authors have made substantial contributions to conception and design of the study. Weiqi Li and Tian Li have been involved in data analysis, data interpretation, drafting the manuscript and revising it critically. Li Lin and Shanfeng Lin have been involved in designing the study and revising the manuscript critically. Li Lin and Shanfeng Lin has given final approval of the version to be published.
 
 
 ## License
 
-[MIT © Richard McRichface.](LICENSE)
+[The Apache license 2.0](LICENSE)

@@ -1,0 +1,8 @@
+"variable"	"label"
+"eligstat"	"Eligibility Status for Mortality Follow-up"
+"mortstat"	"Final Mortality Status"
+"ucod_leading"	"Underlying Cause of Death: Recode"
+"diabetes"	"Diabetes Flag from Multiple Cause of Death (MCOD)"
+"hyperten"	"Hypertension Flag from Multiple Cause of Death (MCOD)"
+"permth_int"	"Number of Person Months of Follow-up from NHANES interview date"
+"permth_exm"	"Number of Person Months of Follow-up from NHANES Mobile Examination Center (MEC) date"
